@@ -20,7 +20,7 @@
         <!-- Main Content -->
         <div class="col-md-10 mt-4">
             <div class="card shadow">
-                <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center" >
+                <div class="card-header text-white d-flex justify-content-between align-items-center" style="background-color: #1A4870;">
 
                     <a href="<?= site_url('admin/dashboard'); ?>" class="btn btn-light btn-sm">Back</a>
 
