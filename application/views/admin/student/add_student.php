@@ -82,7 +82,7 @@
                             </div>
                         </div>
 
-                        <div class="text-end mt-4">
+                        <div class="">
                             <button type="submit" class="btn btn-success">Add Student</button>
                         </div>
                     </form>
