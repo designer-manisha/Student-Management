@@ -82,7 +82,7 @@
                             </div>
                         </div>
 
-                        <div class="">
+                        <div class="justify-content-end">
                             <button type="submit" class="btn btn-success">Add Student</button>
                         </div>
                     </form>
